@@ -1,0 +1,33 @@
+C:\Users\user\source\repos\DB_Server\DB_Server\bin\Debug\DB_Server.exe.config
+C:\Users\user\source\repos\DB_Server\DB_Server\bin\Debug\DB_Server.exe
+C:\Users\user\source\repos\DB_Server\DB_Server\bin\Debug\DB_Server.pdb
+C:\Users\user\source\repos\DB_Server\DB_Server\obj\Debug\DB_Server.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DB_Server\DB_Server\obj\Debug\DB_Server.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DB_Server\DB_Server\obj\Debug\DB_Server.exe
+C:\Users\user\source\repos\DB_Server\DB_Server\obj\Debug\DB_Server.pdb
+C:\Users\kmh\Desktop\DB_Server\DB_Server\bin\Debug\DB_Server.exe.config
+C:\Users\kmh\Desktop\DB_Server\DB_Server\bin\Debug\DB_Server.exe
+C:\Users\kmh\Desktop\DB_Server\DB_Server\bin\Debug\DB_Server.pdb
+C:\Users\kmh\Desktop\DB_Server\DB_Server\obj\Debug\DB_Server.csprojAssemblyReference.cache
+C:\Users\kmh\Desktop\DB_Server\DB_Server\obj\Debug\DB_Server.csproj.CoreCompileInputs.cache
+C:\Users\kmh\Desktop\DB_Server\DB_Server\obj\Debug\DB_Server.exe
+C:\Users\kmh\Desktop\DB_Server\DB_Server\obj\Debug\DB_Server.pdb
+C:\Users\user\Desktop\DB_Server (3)\DB_Server\bin\Debug\DB_Server.exe.config
+C:\Users\user\Desktop\DB_Server (3)\DB_Server\bin\Debug\DB_Server.exe
+C:\Users\user\Desktop\DB_Server (3)\DB_Server\bin\Debug\DB_Server.pdb
+C:\Users\user\Desktop\DB_Server (3)\DB_Server\obj\Debug\DB_Server.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DB_Server (3)\DB_Server\obj\Debug\DB_Server.exe
+C:\Users\user\Desktop\DB_Server (3)\DB_Server\obj\Debug\DB_Server.pdb
+C:\Users\bit\Desktop\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\bin\Debug\DB_Server.exe.config
+C:\Users\bit\Desktop\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\bin\Debug\DB_Server.exe
+C:\Users\bit\Desktop\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\bin\Debug\DB_Server.pdb
+C:\Users\bit\Desktop\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\obj\Debug\DB_Server.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\obj\Debug\DB_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\obj\Debug\DB_Server.exe
+C:\Users\bit\Desktop\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\obj\Debug\DB_Server.pdb
+E:\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\bin\Debug\DB_Server.exe.config
+E:\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\bin\Debug\DB_Server.exe
+E:\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\bin\Debug\DB_Server.pdb
+E:\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\obj\Debug\DB_Server.csprojResolveAssemblyReference.cache
+E:\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\obj\Debug\DB_Server.exe
+E:\1조 5조 5억개\4. 프로젝트 소스\DB_Server\DB_Server\obj\Debug\DB_Server.pdb
