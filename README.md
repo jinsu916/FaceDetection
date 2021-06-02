@@ -16,8 +16,8 @@ https://user-images.githubusercontent.com/56424572/119471879-ac5c6080-bd84-11eb-
 
 기능 흐름도
 
-<img src = "https://user-images.githubusercontent.com/56424572/120461753-3f287b00-c3d5-11eb-9429-d51f453ae9bd.jpg" width="600px">
-<img src = "https://user-images.githubusercontent.com/56424572/120461759-4059a800-c3d5-11eb-95e9-aecdfab6084e.jpg" width="600px">
+<img src = "https://user-images.githubusercontent.com/56424572/120462334-caa20c00-c3d5-11eb-92a0-7681ab5eda23.jpg" width="600px">
+<img src = "https://user-images.githubusercontent.com/56424572/120462340-cbd33900-c3d5-11eb-8ae3-cf3e7ef2b0b7.jpg" width="600px">
 
 
 
