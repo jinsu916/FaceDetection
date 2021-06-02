@@ -8,3 +8,6 @@ https://user-images.githubusercontent.com/56424572/119470654-82566e80-bd83-11eb-
 Client
 
 https://user-images.githubusercontent.com/56424572/119471879-ac5c6080-bd84-11eb-8475-25f804d9f2d4.mp4
+
+![Slide7](https://user-images.githubusercontent.com/56424572/120459983-a8a78a00-c3d3-11eb-9270-5ef0afab357f.jpg)
+
